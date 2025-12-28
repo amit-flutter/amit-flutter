@@ -348,7 +348,7 @@ final Map<String, List<String>> currentLearning = {
 
 ### 🌐 **Find Me Across The Web**
 
-<a href="mailto:amit.flutter.dev@gmail.com">
+<a href="mailto:amitprajapatiMI4@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/amitflutter" target="_blank">
@@ -405,7 +405,7 @@ final Map<String, List<String>> currentLearning = {
 
 ```dart
 class ContactInfo {
-  static const String email = "amit.flutter.dev@gmail.com";
+  static const String email = "amitprajapatiMI4@gmail.com";
   static const String linkedin = "linkedin.com/in/amitflutter";
   static const String github = "github.com/amit-flutter";
   
